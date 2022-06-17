@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">アドバンス</string>
+    <string name="str_english">英語</string>
+    <string name="str_japan">日本</string>
+    <string name="str_korea">韓国</string>
+    <string name="str_russia">ロシア</string>
+    <string name="str_uzbek">ウズベク語</string>
+    <string name="str_china">中国</string>
+    <string name="reference_site_about_lorem_ipsum_giving_information_on_its_origins_as_well_as_a_random_lipsum_generator">
+        Lorem Ipsumに関するリファレンスサイト、その起源に関する情報、およびランダムなLipsumジェネレーター</string>
+</resources>
+
+
+
+
+

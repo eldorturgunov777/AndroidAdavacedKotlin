@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расширенный Android</string>
+    <string name="str_english">Английский</string>
+    <string name="str_japan">Япония</string>
+    <string name="str_korea">Корея</string>
+    <string name="str_russia">Россия</string>
+    <string name="str_uzbek">Yзбекский</string>
+    <string name="str_china">Китай</string>
+    <string name="reference_site_about_lorem_ipsum_giving_information_on_its_origins_as_well_as_a_random_lipsum_generator">
+        Справочный сайт о Lorem Ipsum, предоставляющий информацию о его происхождении, а также генератор случайных чисел Lipsum.</string>
+</resources>
+
+
+
+
+
+

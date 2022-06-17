@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android Advanced Kotlin</string>
+    <string name="str_english">English</string>
+    <string name="str_japan">Japan</string>
+    <string name="str_korea">Korea</string>
+    <string name="str_russia">Russia</string>
+    <string name="str_uzbek">Uzbek</string>
+    <string name="str_china">China</string>
+    <string name="reference_site_about_lorem_ipsum_giving_information_on_its_origins_as_well_as_a_random_lipsum_generator">
+        Reference site about Lorem Ipsum, giving information on its origins, as well as a random Lipsum generator.</string>
+</resources>
+
+
+
+
+
+

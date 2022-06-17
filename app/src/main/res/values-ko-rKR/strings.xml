@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">안드로이드 고급</string>
+    <string name="str_english">영어</string>
+    <string name="str_japan">일본</string>
+    <string name="str_korea">한국</string>
+    <string name="str_russia">러시아</string>
+    <string name="str_uzbek">우즈벡</string>
+    <string name="str_china">중국</string>
+    <string name="reference_site_about_lorem_ipsum_giving_information_on_its_origins_as_well_as_a_random_lipsum_generator">
+        Lorem Ipsum에 대한 참조 사이트, 기원에 대한 정보 및 임의의 Lipsum 생성기 제공</string>
+</resources>
+
+
+
+
+
+

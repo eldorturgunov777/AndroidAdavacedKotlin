@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安卓進階</string>
+    <string name="str_english">英語</string>
+    <string name="str_japan">日本</string>
+    <string name="str_korea">韓國</string>
+    <string name="str_russia">俄羅斯</string>
+    <string name="str_uzbek">烏茲別克語</string>
+    <string name="str_china">中國</string>
+    <string name="reference_site_about_lorem_ipsum_giving_information_on_its_origins_as_well_as_a_random_lipsum_generator">
+       關於 Lorem Ipsum 的參考站點，提供有關其起源的信息，以及隨機 Lipsum 生成器。</string>
+</resources>
